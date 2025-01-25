@@ -46,7 +46,7 @@ const EditProfile = () => {
 
                     {/* Editable Profile Information */}
                     <Box w={"50%"} pl={16} borderLeft={'1px dashed #989898'}>
-                        <ProfileField label="Name" placeholder="Enter your name" defaultValue="Kartikey Gautam" />
+                        <ProfileField label="Name" placeholder="Enter your name" defaultValue="Yami Gautam" />
                         <ProfileField label="Email ID" placeholder="Enter your email" defaultValue="ajinkyaanand@5gth.com" />
                         <ProfileField label="Phone number" placeholder="Enter your phone number" defaultValue="9854412589" />
                         <ProfileField label="Designation" placeholder="Enter your designation" defaultValue="Architect" />

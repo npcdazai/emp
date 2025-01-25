@@ -66,7 +66,7 @@ const Profile = () => {
                     </Box>
 
                     <Box>
-                        <ProfileInfo label="Name" value="Kartikey Gautam" />
+                        <ProfileInfo label="Name" value="Yami Gautam" />
                         <ProfileInfo label="Email ID" value="ajinkyaanand@5gth.com" />
                         <ProfileInfo label="Phone number" value="9854412589" />
                         <ProfileInfo label="Designation" value="Architect" />

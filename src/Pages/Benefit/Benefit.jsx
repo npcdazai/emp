@@ -112,7 +112,7 @@ const Benefit = () => {
     },
     {
       title: "Account name",
-      value: "Kartikey Gautam",
+      value: "Yami Gautam",
     },
     {
       title: "Validity",

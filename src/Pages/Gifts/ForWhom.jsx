@@ -527,7 +527,7 @@ const ForWhom = () => {
                                     <Input
                                         size='sm'
                                         borderRadius={"md"}
-                                        value={"Kartikey Gautam"}
+                                        value={"Yami Gautam"}
                                         color={"#000"}
                                         fontWeight={"500"}
                                         fontSize={"sm"}
@@ -544,7 +544,7 @@ const ForWhom = () => {
                                         Email ID
                                     </Text>
                                     <Input size='sm' borderRadius={"md"}
-                                        value={"kartikeygautam@wdi.com"}
+                                        value={"Yamigautam@wdi.com"}
                                         color={"#000"}
                                         fontWeight={"500"}
                                         fontSize={"sm"}

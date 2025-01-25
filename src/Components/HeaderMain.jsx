@@ -144,7 +144,7 @@ const HeaderMain = ({
                   >
                     <Avatar size="2xl" name="Segun Adebayo" src={image} />
                     <Text as={"span"} fontSize={"md"} fontWeight={600}>
-                      Kartikey Gautam
+                    Yami Gautam
                     </Text>
                     <PrimaryButton onClick={() => navigate("/profile")} title={"View Profile"} />
                   </PopoverBody>
@@ -177,7 +177,7 @@ const HeaderMain = ({
                   <Avatar src={image} size={"sm"} bg={"#210a33"} />
                   <Box style={{ display: "flex" }} className="overflow-hidden ms-3 flex-column">
                     <Text fontWeight={600} as={"span"} fontSize={"md"}>
-                      Kartikey Gautam
+                      Yami Gautam
                     </Text>
                     <Text as={"span"} fontSize={"xs"}>
                       Optifii

@@ -207,7 +207,7 @@ const MyGiftCardsTab = () => {
             p={4}
           >
             <InternalCard
-              title1={"Kartikey Gautam"}
+              title1={"Yami Gautam"}
               subTitle1={"Cardholder Name"}
               title2={"**** **** **** 5678"}
               subbTitle2={"Card Number "}

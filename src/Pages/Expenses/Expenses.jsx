@@ -154,7 +154,7 @@ const Expenses = () => {
             subbTitle2={"Account Number"}
           />
           <InternalCard
-            title1={"Kartikey Gautam"}
+            title1={"Yami Gautam"}
             subTitle1={"Account name"}
             title2={"01/12"}
             subbTitle2={"Validity"}

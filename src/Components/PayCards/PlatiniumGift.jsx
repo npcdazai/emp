@@ -78,7 +78,7 @@ const PlatiniumGift = () => {
         transform={'translateY(-75px)'}
       >
         <Text as={'span'} color={"#fff"} fontWeight={500} fontSize={"sm"}>
-        Kartikey Gautam
+        Yami Gautam
         </Text>
         <Text opacity={0.7} as={'span'} color={"#fff"} fontWeight={500} fontSize={"xs"}>
         Optifii Pvt Ltd

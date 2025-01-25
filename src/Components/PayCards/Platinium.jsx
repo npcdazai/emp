@@ -73,7 +73,7 @@ const Platinium = () => {
         justifyContent={"space-between"}
       >
         <Text as={'span'} fontWeight={500} color={"#fff"} fontSize={"sm"}>
-        Kartikey Gautam
+        Yami Gautam
         </Text>
         <Text opacity={0.7} fontWeight={500} as={'span'} color={"#fff"} fontSize={"xs"}>
         Optifii Pvt Ltd
