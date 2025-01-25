@@ -232,7 +232,7 @@ const Login = () => {
           zIndex: 2,
         }}
       >
-        WDI v1.0.0
+        optifii v1.0.0
       </div>
 
       {/* <img

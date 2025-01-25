@@ -49,7 +49,7 @@ const WelcomeToOptifii = () => {
                                 <GridItem colSpan={{ base: 4, md: 2 }}>
                                     <FormControl>
                                         <FormLabel fontSize="sm">Company</FormLabel>
-                                        <Input fontSize="xs" fontWeight={500} value="Website Developers India Pvt Ltd" />
+                                        <Input fontSize="xs" fontWeight={500} value="Optifii Pvt Ltd" />
                                     </FormControl>
                                 </GridItem>
 
@@ -65,7 +65,7 @@ const WelcomeToOptifii = () => {
                                 <GridItem colSpan={{ base: 4, md: 2 }}>
                                     <FormControl>
                                         <FormLabel fontSize="sm">Email</FormLabel>
-                                        <Input fontSize="xs" fontWeight={500} value="admin@wdipl.com" readOnly />
+                                        <Input fontSize="xs" fontWeight={500} value="admin@optifii.com" readOnly />
                                     </FormControl>
                                 </GridItem>
 

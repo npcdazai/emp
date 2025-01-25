@@ -25,7 +25,7 @@ const LoginOtp = () => {
         const phoneNumber = localStorage.getItem("phoneNumber");
         console.log(phoneNumber);
 
-        if (email === "wdi@gmail.com" && otp === "1234" ) { 
+        if (email === "optifii@gmail.com" && otp === "1234" ) { 
 
             setTimeout(() => {
 

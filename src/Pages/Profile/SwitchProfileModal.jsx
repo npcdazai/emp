@@ -27,7 +27,7 @@ const Card = ({ title, designation, lastActiveTime, position }) => {
             >
                 <HStack justify={"space-between"}>
                     <HStack>
-                        <Image width={"30px"} src="https://www.wdipl.com/public/img/black_logo.svg" alt="logo" />
+                        <Image width={"30px"} src="https://www.optifii.com/public/img/black_logo.svg" alt="logo" />
                         <Text fontSize={"sm"} fontWeight={600} mb={0}>{title}</Text>
                     </HStack>
                     <Box>
@@ -86,10 +86,10 @@ const SwitchProfileModal = ({ isOpen, onOpen, onClose }) => {
                 <ModalBody>
 
 
-                    <Card title={"Website Developers India Pvt Ltd."} designation={"Architect"} lastActiveTime={"02/05/2023"} position={"Ex-employee"} />
+                    <Card title={"Optifii Pvt Ltd."} designation={"Architect"} lastActiveTime={"02/05/2023"} position={"Ex-employee"} />
 
 
-                    <Card title={"Mad Developers India Pvt Ltd."} designation={"Developer"} lastActiveTime={"05/05/2024"} position={"Cr-employee"} />
+                    <Card title={"Developers Pvt Ltd."} designation={"Developer"} lastActiveTime={"05/05/2024"} position={"Cr-employee"} />
 
 
 

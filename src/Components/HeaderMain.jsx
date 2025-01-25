@@ -180,7 +180,7 @@ const HeaderMain = ({
                       Kartikey Gautam
                     </Text>
                     <Text as={"span"} fontSize={"xs"}>
-                      Website Development India
+                      Optifii
                     </Text>
                   </Box>
                 </Box>

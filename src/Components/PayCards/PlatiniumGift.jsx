@@ -81,7 +81,7 @@ const PlatiniumGift = () => {
         Kartikey Gautam
         </Text>
         <Text opacity={0.7} as={'span'} color={"#fff"} fontWeight={500} fontSize={"xs"}>
-        Website Developers India Pvt Ltd
+        Optifii Pvt Ltd
         </Text>
       </VStack>
 
